@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "baseBuilder": {
+    "ownerAddress": "0x5c4Cf0285984ACb2055a7a6c680860ad6EF7357E"
+  },
+  "miniapp": {
+    "version": "1",
+    "name": "Filler Quest",
+    "homeUrl": "https://filler-base.vercel.app/",
+    "iconUrl": "https://filler-base.vercel.app/images/color.png",
+    "splashImageUrl": "https://filler-base.vercel.app/images/color.png",
+    "splashBackgroundColor": "#000000",
+    "webhookUrl": "",
+    "subtitle": "Master the Art of Color Strategy",
+    "description": "A fun color-filling puzzle game.",
+    "screenshotUrls": [],
+    "primaryCategory": "game",
+    "tags": ["puzzle", "color", "miniapp", "baseapp"],
+    "heroImageUrl": "",
+    "tagline": "Play instantly",
+    "ogTitle": "Filler Quest",
+    "ogDescription": "Master the Art of Color Strategy",
+    "ogImageUrl": "",
+    "noindex": true
+  }
+}

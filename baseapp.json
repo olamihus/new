@@ -1,0 +1,8 @@
+{
+  "name": "My Mini App",
+  "description": "A simple web app for BaseApp.",
+  "url": "https://your-app-url.com",
+  "icon": "https://your-app-url.com/icon.png",
+  "categories": ["utility"],
+  "chains": ["base-mainnet"]
+}
