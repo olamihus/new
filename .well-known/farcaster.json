@@ -10,9 +10,9 @@
   "miniapp": {
     "version": "1",
     "name": "Filler Quest",
-    "homeUrl": "https://filler-base.vercel.app/",
-    "iconUrl": "https://filler-base.vercel.app/images/color.png",
-    "splashImageUrl": "https://filler-base.vercel.app/images/color.png",
+    "homeUrl": "https://new-six-orpin-58.vercel.app/",
+    "iconUrl": "https://new-six-orpin-58.vercel.app/color.png",
+    "splashImageUrl": "https://new-six-orpin-58.vercel.app/color.png",
     "splashBackgroundColor": "#000000",
     "webhookUrl": "",
     "subtitle": "Master the Art of Color Strategy",
@@ -20,11 +20,11 @@
     "screenshotUrls": [],
     "primaryCategory": "game",
     "tags": ["puzzle", "color", "miniapp", "baseapp"],
-    "heroImageUrl": "",
+    "heroImageUrl": "https://new-six-orpin-58.vercel.app/color.png",
     "tagline": "Play instantly",
     "ogTitle": "Filler Quest",
     "ogDescription": "Master the Art of Color Strategy",
-    "ogImageUrl": "",
+    "ogImageUrl": "https://new-six-orpin-58.vercel.app/color.png",
     "noindex": true
   }
 }

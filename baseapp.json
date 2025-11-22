@@ -1,8 +1,8 @@
 {
-  "name": "My Mini App",
-  "description": "A simple web app for BaseApp.",
-  "url": "https://new-livid-eight-42.vercel.app",
-  "icon": "https://new-livid-eight-42.vercel.app/icon.png",
+  "name": "Filler Quest",
+  "description": "Fill each board before the moves run out.",
+  "url": "https://new-six-orpin-58.vercel.app/",
+  "icon": "https://new-six-orpin-58.vercel.app/color.png",
   "categories": ["utility"],
   "chains": ["base-mainnet"]
 }

@@ -1,14 +1,14 @@
 {
-  "name": "My Mini App",
-  "short_name": "MiniApp",
-  "description": "A simple web app for BaseApp.",
+  "name": "Filler Quest",
+  "short_name": "Filler",
+  "description": "Fill each board before the moves run out.",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#3367D6",
   "icons": [
     {
-      "src": "icon.png",
+      "src": "https://new-six-orpin-58.vercel.app/color.png",
       "sizes": "512x512",
       "type": "image/png"
     }
